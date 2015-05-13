@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Text To Speech</string>
+    <string name="action_settings">Settings</string>
+     <color name="blue">#1c82ec</color>
+     <color name="white">#ffffff</color>
+     <string name="string1">Convert</string>
+
+</resources>
